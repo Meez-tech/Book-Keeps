@@ -1,0 +1,14 @@
+.Main {
+  flex: 1 1 0;
+  background-color: rgba(25, 25, 27, 1);
+  height: 100%;
+  width: 100%;
+  justify-items: center;
+}
+
+.transButton {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  margin: 10px;
+}
